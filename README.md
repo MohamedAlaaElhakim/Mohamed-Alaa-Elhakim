@@ -23,7 +23,6 @@ I design complete business workflows, cost control systems, and approval process
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -50,11 +49,7 @@ Track labor, materials, equipment and profitability in real-time.
 ### 👨‍💼 Employee Attendance System
 Attendance tracking with reporting and business insights.
 
----
 
-## 📈 GitHub Stats
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAlaaElhakim&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
